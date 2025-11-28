@@ -114,4 +114,36 @@
 	.about-image-container {
 		width: 80%;
 	}
+
+	.about-title {
+		font-size: 28px;
+	}
+
+	.about-subtitle {
+		width: 100% !important;
+		font-size: 14px;
+	}
+}
+
+@media (max-width: 400px) {
+	.about-container {
+		padding-top: 50px;
+	}
+
+	.about-image-container {
+		width: 90%;
+	}
+
+	.about-title {
+		font-size: 24px;
+	}
+
+	.about-subtitle {
+		font-size: 13px;
+		line-height: 22px;
+	}
+
+	.about-socials-mobile {
+		padding-top: 20px;
+	}
 }

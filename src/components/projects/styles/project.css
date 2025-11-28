@@ -65,8 +65,41 @@
 	font-weight: 700;
 }
 
-@media (max-width: 600px) {
+@media (max-width: 800px) {
+	.project-container {
+		padding: 20px;
+	}
+
+	.project-title {
+		font-size: 14px;
+	}
+
+	.project-description {
+		font-size: 13px;
+	}
+}
+
+@media (max-width: 500px) {
 	.project {
-		height: 300px;
+		height: auto;
+		min-height: 200px;
+	}
+
+	.project-container {
+		padding: 20px 15px;
+	}
+
+	.project-title {
+		font-size: 15px;
+		padding-top: 12px;
+	}
+
+	.project-description {
+		font-size: 14px;
+		line-height: 1.5;
+	}
+
+	.project-link {
+		padding-top: 15px;
 	}
 }

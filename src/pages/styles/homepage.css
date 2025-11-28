@@ -210,3 +210,70 @@
 		margin-right: -25px;
 	}
 }
+
+@media (max-width: 600px) {
+	.homepage-logo-container {
+		padding-top: 100px;
+	}
+
+	.homepage-greeting {
+		font-size: 1.3rem;
+	}
+
+	.homepage-name {
+		font-size: 1.6rem;
+	}
+
+	.homepage-type {
+		font-size: 1.1rem;
+		min-height: 35px;
+	}
+
+	.homepage-title {
+		font-size: 1rem;
+	}
+
+	.homepage-image-container {
+		width: 280px;
+		height: 280px;
+		padding-top: 30px;
+		padding-bottom: 30px;
+	}
+
+	.homepage-socials {
+		padding-top: 20px;
+	}
+
+	.homepage-social-icon {
+		font-size: 22px;
+		padding-right: 15px;
+	}
+}
+
+@media (max-width: 400px) {
+	.homepage-logo-container {
+		padding-top: 80px;
+	}
+
+	.homepage-greeting {
+		font-size: 1.1rem;
+	}
+
+	.homepage-name {
+		font-size: 1.4rem;
+	}
+
+	.homepage-type {
+		font-size: 1rem;
+	}
+
+	.homepage-image-container {
+		width: 240px;
+		height: 240px;
+	}
+
+	.homepage-social-icon {
+		font-size: 20px;
+		padding-right: 12px;
+	}
+}
