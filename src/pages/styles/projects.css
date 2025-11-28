@@ -23,8 +23,16 @@
 }
 
 @media (max-width: 600px) {
+	.projects-logo-container {
+		padding-top: 70px;
+	}
+
+	.projects-logo {
+		display: none;
+	}
+
 	.projects-container {
-		padding-top: 60px;
+		padding-top: 30px;
 	}
 
 	.projects-project {
@@ -41,8 +49,12 @@
 }
 
 @media (max-width: 400px) {
+	.projects-logo-container {
+		padding-top: 60px;
+	}
+
 	.projects-container {
-		padding-top: 50px;
+		padding-top: 20px;
 	}
 
 	.projects-title {

@@ -2,6 +2,8 @@
 	display: flex;
 	justify-content: left;
 	padding-top: 25px;
+	position: relative;
+	z-index: 1;
 }
 
 .about-logo {
@@ -11,6 +13,7 @@
 	border-radius: 50%;
 	box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.25);
 	top: 4vh;
+	z-index: 998;
 }
 
 .about-container {
@@ -107,8 +110,16 @@
 }
 
 @media (max-width: 600px) {
+	.about-logo-container {
+		padding-top: 70px;
+	}
+
+	.about-logo {
+		display: none;
+	}
+
 	.about-container {
-		padding-top: 60px;
+		padding-top: 30px;
 	}
 
 	.about-image-container {
@@ -126,8 +137,12 @@
 }
 
 @media (max-width: 400px) {
+	.about-logo-container {
+		padding-top: 60px;
+	}
+
 	.about-container {
-		padding-top: 50px;
+		padding-top: 20px;
 	}
 
 	.about-image-container {

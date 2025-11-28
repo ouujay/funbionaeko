@@ -154,6 +154,7 @@
 		align-items: flex-start;
 		width: 100%;
 		order: 2;
+		margin-top: 20px;
 	}
 
 	.homepage-greeting {
@@ -183,13 +184,17 @@
 	.homepage-first-area-right-side {
 		width: 100%;
 		order: 1;
+		display: flex;
+		justify-content: center;
 	}
 
 	.homepage-image-container {
-		padding-top: 50px;
-		padding-bottom: 50px;
-		margin-left: 10px;
+		padding-top: 20px;
+		padding-bottom: 30px;
+		margin-left: 0;
 		order: 1;
+		width: 300px;
+		height: 300px;
 	}
 
 	.homepage-after-title {
