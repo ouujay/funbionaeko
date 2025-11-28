@@ -140,7 +140,7 @@ const Homepage = () => {
 						<div className="homepage-resume">
 							<a
 								href="/resume.pdf"
-								download="Funbi_Onaeko_Resume.pdf"
+								download="Funbi Onaeko's Resume (AI and Fullstack Engineer).pdf"
 								className="resume-button"
 							>
 								<FontAwesomeIcon icon={faDownload} />
