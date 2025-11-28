@@ -3,7 +3,7 @@ const INFO = {
 		title: "Funbi Onaeko | AI Engineer & Full Stack Developer",
 		name: "Funbi Onaeko",
 		email: "oluwafunbi.onaeko@gmail.com",
-		logo: "../logo.png",
+		logo: "../homepage.jpg",
 	},
 
 	socials: {

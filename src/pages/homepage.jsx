@@ -86,35 +86,21 @@ const Homepage = () => {
 
 					<div className="homepage-container">
 						<div className="homepage-first-area">
-							<div className="homepage-first-area-left-side">
-								<div className="homepage-greeting">
-									Hi There! 👋
-								</div>
-								<div className="homepage-name">
-									I'm <span className="homepage-name-highlight">{INFO.main.name}</span>
-								</div>
-								<div className="homepage-type">
-									<Type />
-								</div>
-								<div className="title homepage-title">
-									{INFO.homepage.title}
-								</div>
-
-								<div className="subtitle homepage-subtitle">
-									{INFO.homepage.description}
-								</div>
+							<div className="homepage-greeting">
+								Hi There! 👋
+							</div>
+							<div className="homepage-name">
+								I'm <span className="homepage-name-highlight">{INFO.main.name}</span>
+							</div>
+							<div className="homepage-type">
+								<Type />
+							</div>
+							<div className="title homepage-title">
+								{INFO.homepage.title}
 							</div>
 
-							<div className="homepage-first-area-right-side">
-								<div className="homepage-image-container">
-									<div className="homepage-image-wrapper">
-										<img
-											src="homepage.jpg"
-											alt="about"
-											className="homepage-image"
-										/>
-									</div>
-								</div>
+							<div className="subtitle homepage-subtitle">
+								{INFO.homepage.description}
 							</div>
 						</div>
 
