@@ -2,36 +2,36 @@ const SEO = [
 	{
 		page: "home",
 		description:
-			"I am a backend developer with expertise in Node.js. I have experience in building scalable, secure and reliable web applications using various frameworks and technologies.",
-		keywords: ["Tharindu", "Tharindu N", "Tharindu Nayanajith"],
+			"Funbi Onaeko - AI Engineer and Full Stack Developer with 3+ years of experience building LLM-powered applications, voice recognition systems, and machine learning pipelines. Expertise in Python, React, Django, and FastAPI.",
+		keywords: ["Funbi Onaeko", "AI Engineer", "Full Stack Developer", "LLM", "Machine Learning", "Python", "React", "Django", "FastAPI", "Nigeria"],
 	},
 
 	{
 		page: "about",
 		description:
-			"I am a backend developer with expertise in Node.js. I have experience in building scalable, secure and reliable web applications using various frameworks and technologies.",
-		keywords: ["Tharindu", "Tharindu N", "Tharindu Nayanajith"],
+			"Learn about Funbi Onaeko's journey as an AI Engineer and Full Stack Developer. Building AI solutions for social impact and financial inclusion in Africa.",
+		keywords: ["Funbi Onaeko", "About", "AI Engineer", "Full Stack Developer", "Nigeria", "Pan-Atlantic University"],
 	},
 
 	{
 		page: "articles",
 		description:
-			"Chronological collection of my long-form thoughts on programming, leadership, product design, and more.",
-		keywords: ["Tharindu", "Tharindu N", "Tharindu Nayanajith"],
+			"Thoughts on AI engineering, LLM integration, building startups, and creating technology for social good by Funbi Onaeko.",
+		keywords: ["Funbi Onaeko", "AI", "LLM", "Startups", "Technology", "Blog"],
 	},
 
 	{
 		page: "projects",
 		description:
-			"I've worked on a variety of projects over the years and I'm proud of the progress I've made. Many of these projects are open-source and available for others to explore and contribute to.",
-		keywords: ["Tharindu", "Tharindu N", "Tharindu Nayanajith"],
+			"Portfolio of AI and full-stack projects by Funbi Onaeko including UniBot, EchoPay, EchoMind, and UniOrdering. Featuring LLM integration, voice recognition, and RAG systems.",
+		keywords: ["Funbi Onaeko", "Projects", "AI", "LLM", "UniBot", "EchoPay", "EchoMind", "UniOrdering", "Portfolio"],
 	},
 
 	{
 		page: "contact",
 		description:
-			"If you're interested in collaborating on a project, feel free to reach out to me. I'm always open to new ideas and opportunities.",
-		keywords: ["Tharindu", "Tharindu N", "Tharindu Nayanajith"],
+			"Get in touch with Funbi Onaeko for AI engineering projects, full-stack development, or collaboration opportunities.",
+		keywords: ["Funbi Onaeko", "Contact", "AI Engineer", "Hire", "Freelance", "Collaboration"],
 	},
 ];
 
