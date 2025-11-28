@@ -99,7 +99,7 @@ const INFO = {
 				"Full-stack healthcare platform with RBAC for patients, doctors, and admins. Built in 5 days with subscription-based rate limiting and appointment management.",
 			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png",
 			linkText: "View Project",
-			link: "https://github.com/ouujay",
+			link: "https://github.com/ouujay/technical-assessment-pmhelp-oluwafunbi-onaeko",
 			tech: ["Django", "React", "PostgreSQL", "JWT"],
 		},
 		{
