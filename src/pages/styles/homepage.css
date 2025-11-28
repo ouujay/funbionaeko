@@ -5,6 +5,8 @@
 	justify-content: left;
 	align-items: center;
 	padding-top: 130px;
+	position: relative;
+	z-index: 10;
 }
 
 .homepage-container {
@@ -146,6 +148,7 @@
 @media (max-width: 1024px) {
 	.homepage-first-area {
 		flex-direction: column;
+		align-items: center;
 	}
 
 	.homepage-first-area-left-side {
@@ -154,7 +157,7 @@
 		align-items: flex-start;
 		width: 100%;
 		order: 2;
-		margin-top: 20px;
+		margin-top: 30px;
 	}
 
 	.homepage-greeting {
@@ -172,13 +175,11 @@
 	.homepage-title {
 		width: 100% !important;
 		margin-top: 20px;
-		order: 2;
 	}
 
 	.homepage-subtitle {
 		width: 100% !important;
 		margin-top: 10px;
-		order: 3;
 	}
 
 	.homepage-first-area-right-side {
@@ -189,12 +190,14 @@
 	}
 
 	.homepage-image-container {
-		padding-top: 20px;
-		padding-bottom: 30px;
+		width: 280px;
+		height: auto;
 		margin-left: 0;
-		order: 1;
-		width: 300px;
-		height: 300px;
+	}
+
+	.homepage-image-wrapper {
+		width: 100%;
+		height: auto;
 	}
 
 	.homepage-after-title {
@@ -218,7 +221,14 @@
 
 @media (max-width: 600px) {
 	.homepage-logo-container {
-		padding-top: 100px;
+		padding-top: 80px;
+	}
+
+	.homepage-logo-container > div {
+		position: relative !important;
+		top: auto !important;
+		border: none !important;
+		box-shadow: none !important;
 	}
 
 	.homepage-greeting {
@@ -239,10 +249,7 @@
 	}
 
 	.homepage-image-container {
-		width: 280px;
-		height: 280px;
-		padding-top: 30px;
-		padding-bottom: 30px;
+		width: 220px;
 	}
 
 	.homepage-socials {
@@ -273,8 +280,7 @@
 	}
 
 	.homepage-image-container {
-		width: 240px;
-		height: 240px;
+		width: 180px;
 	}
 
 	.homepage-social-icon {
