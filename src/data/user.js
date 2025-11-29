@@ -111,6 +111,15 @@ const INFO = {
 			link: "https://github.com/ouujay",
 			tech: ["Flask", "Python", "Africa's Talking API"],
 		},
+		{
+			title: "Potato Disease Classification",
+			description:
+				"Deep learning CNN model to classify potato leaf diseases (Early Blight, Late Blight, Healthy) with 100% test accuracy. Trained on PlantVillage dataset using 6-layer convolutional architecture.",
+			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/python/python.png",
+			linkText: "View Project",
+			link: "https://github.com/ouujay/Deep-learning-potato-Disease-Classification-",
+			tech: ["TensorFlow", "Keras", "CNN", "Deep Learning", "Python"],
+		},
 	],
 };
 
