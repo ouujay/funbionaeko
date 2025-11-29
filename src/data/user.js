@@ -14,13 +14,13 @@ const INFO = {
 	homepage: {
 		title: "AI Engineer & Full Stack Developer",
 		description:
-			"I'm Funbi Onaeko, an AI Engineer and Full Stack Developer with 3+ years of experience building production-ready applications integrating Large Language Models (LLMs), voice recognition systems, and machine learning pipelines. I've shipped AI-powered products to 1000+ users, including conversational AI assistants, RAG systems, and recommendation engines. Passionate about building AI solutions for social impact and financial inclusion in Africa.",
+			"I'm Funbi Onaeko, an AI Engineer and Full Stack Developer with 3+ years of experience building production-ready applications. My work spans deep learning and computer vision (CNNs, TensorFlow), NLP and LLM integrations (GPT-4, LLaMA, RAG systems), voice recognition pipelines, and full-stack web/mobile development. I've shipped AI-powered products to 1,000+ users and I'm passionate about building technology for social impact in Africa.",
 	},
 
 	about: {
 		title: "I'm Funbi Onaeko. Building AI solutions for real-world impact.",
 		description:
-			"I've worked on a variety of AI and full-stack projects, from voice-powered banking assistants to campus delivery platforms with 1,016+ users. My focus is on integrating LLMs like GPT-4 and LLaMA into practical applications that solve real problems. I specialize in Python, JavaScript, React, React Native, Django, and FastAPI. I'm always exploring new ways to make AI accessible and impactful, especially for underserved communities.",
+			"I'm a versatile AI Engineer and Full Stack Developer with experience across the entire ML spectrum - from deep learning and computer vision (CNNs for image classification) to NLP, voice recognition systems, and LLM integrations. I've built production applications serving 1,016+ users, including multi-vendor platforms, RAG-powered document systems, and voice-driven assistants. My stack spans Python (TensorFlow, Keras, FastAPI, Django) and JavaScript (React, React Native, Next.js). Whether it's training CNN models for disease detection, building conversational AI with LLaMA and GPT-4, or architecting full-stack platforms with real-time features - I enjoy solving complex problems end-to-end. Passionate about making AI accessible and impactful, especially for underserved communities in Africa.",
 	},
 
 	articles: {
