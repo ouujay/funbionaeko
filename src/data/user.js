@@ -87,11 +87,11 @@ const INFO = {
 		{
 			title: "Spill - Women's Safety App",
 			description:
-				"Anonymous safety app with AI-powered gender verification using DeepFace facial analysis. Location-based feed system for sharing safety experiences.",
+				"AI-powered anonymous women's safety platform with DeepFace gender verification, location-based feed, and content moderation. Full microservices architecture with React Native mobile app, Django REST API, and Flask ML service.",
 			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/python/python.png",
 			linkText: "View Project",
-			link: "https://github.com/ouujay",
-			tech: ["React Native", "Django", "Flask", "DeepFace"],
+			link: "https://github.com/ouujay/-Spill-AI-Safety-App-Full-Stack",
+			tech: ["React Native", "Django", "Flask", "DeepFace", "Deep Learning"],
 		},
 		{
 			title: "MedPortal - Healthcare SaaS",
