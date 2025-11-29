@@ -120,6 +120,15 @@ const INFO = {
 			link: "https://github.com/ouujay/Deep-learning-potato-Disease-Classification-",
 			tech: ["TensorFlow", "Keras", "CNN", "Deep Learning", "Python"],
 		},
+		{
+			title: "VoiceRAG - Voice Document Q&A",
+			description:
+				"Voice-powered document Q&A system using RAG architecture. Features offline speech recognition (Vosk), hybrid TF-IDF + Word2Vec embeddings, two-pass LLM pipeline, and real-time transcription with smart interruption.",
+			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/python/python.png",
+			linkText: "View Project",
+			link: "https://github.com/ouujay/Ai-experiment--Voice-Rag",
+			tech: ["FastAPI", "React", "Vosk", "ChromaDB", "Together AI", "RAG"],
+		},
 	],
 };
 
