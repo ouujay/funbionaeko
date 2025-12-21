@@ -31,6 +31,24 @@ const INFO = {
 
 	projects: [
 		{
+			title: "Bloom - AI Maternal Health Platform",
+			description:
+				"AI-powered maternal health CRM for Nigerian mothers, addressing 512 deaths per 100,000 live births. Features voice-first AI triage with Llama 3.3 (classifies symptoms as critical/urgent/moderate/normal), 40-week pregnancy education program, healthcare CRM for hospitals, and gamified token rewards.",
+			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/python/python.png",
+			linkText: "View Live",
+			link: "https://bloom-sigma-lake.vercel.app/",
+			tech: ["Django", "React", "Llama 3.3", "OpenAI Whisper", "TailwindCSS", "Azure"],
+		},
+		{
+			title: "CertifyTube - YouTube Learning Certificates",
+			description:
+				"Platform that transforms YouTube educational content into verifiable learning experiences. Features voice-based AI assessments (questions spoken by AI, answers by users) to prevent cheating, semantic grading with Claude AI that understands explanations and analogies, and verifiable certificates with unique IDs and QR codes.",
+			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/python/python.png",
+			linkText: "View Live",
+			link: "https://certifytube.vercel.app/dashboard",
+			tech: ["Django", "React", "Claude API", "PostgreSQL", "TailwindCSS", "Web Speech API"],
+		},
+		{
 			title: "UniBot - AI Ordering Assistant",
 			description:
 				"Conversational AI chatbot enabling natural language food ordering using LLaMA 3.3 70B. Users can say 'I want rice and chicken' and the AI handles cart management, checkout, and payments automatically.",
