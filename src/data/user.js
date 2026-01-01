@@ -60,11 +60,11 @@ const INFO = {
 		{
 			title: "UniOrdering - Campus Delivery Platform",
 			description:
-				"Multi-vendor campus marketplace serving 1,016+ users across 3 universities. Features AI recommendation engine (25% increase in order value), shop owner dashboards, delivery partner system, and WhatsApp notifications.",
+				"Multi-vendor campus marketplace serving 1,016+ users across 3 universities. Built 3 React Native mobile apps (customer, riders, shop owners). Features AI recommendation engine (25% order value increase), real-time tracking, and WhatsApp notifications.",
 			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png",
 			linkText: "View Live",
 			link: "https://uniordering.com",
-			tech: ["Django", "React", "PostgreSQL", "Redis", "Paystack"],
+			tech: ["Django", "React Native", "PostgreSQL", "Redis", "Paystack"],
 		},
 		{
 			title: "Intelligent Claims QA Service",

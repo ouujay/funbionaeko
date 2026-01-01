@@ -1,12 +1,13 @@
-# Reactfolio V1.2 👩🏽‍🚀
+# Funbi Onaeko - Portfolio Website
 
-Reactfolio is a modern and customizable personal portfolio web template built using the popular React library. It provides an easy way for developers, designers, and creatives to showcase their work, skills, and achievements in a professiona and visually appealing way. With its responsive design and clean code, Reactfolio can be easily tailored to suit individual needs and preferences, making it an ideal choice for anyone looking to create a stunning online portfolio.
+**Name:** Funbi Onaeko
+**Matric Number:** 22120613041
 
-<center>
-<img src="https://cdn.tharindu.dev/reactfolio.jpg" alt="Reactfolio" />
-</center>
+A personal portfolio website showcasing my projects, skills, and experience as an AI Engineer and Full Stack Developer. Built with React.
 
-Live demo here: <a href="https://reactfolio.tharindu.dev/" target="_blank">reactfolio.tharindu.dev</a>
+## About Me
+
+I'm an AI Engineer and Full Stack Developer with 3+ years of experience building production-ready applications. My work spans LLM integrations (GPT-4, LLaMA), voice recognition systems, and full-stack web/mobile development. I've shipped AI-powered products to 1,000+ users.
 
 -   [Features](#-features)
 -   [Getting started](#-getting-started)
