@@ -29,6 +29,44 @@ const INFO = {
 			"A collection of my thoughts on AI engineering, LLM integration, building startups, and creating technology for social good.",
 	},
 
+	certifications: [
+		{
+			title: "AI Agents & Agentic AI Systems Development",
+			issuer: "Meta AI Developer Academy × RAIN Nigeria",
+			date: "December 2025",
+			link: null,
+			certImage: "/meta-cert.jpg",
+			theme: "meta",
+			certNumber: "CN:0136",
+			skills: [
+				"AI Agents design & architecture",
+				"Agentic AI Systems Development",
+				"Multi-agent orchestration",
+				"AI application development",
+				"Meta AI tooling & ecosystem",
+			],
+			description:
+				"Successfully fulfilled all coursework and projects for the Meta AI Developer Academy Nigeria 2025, run in partnership with Robotics and Artificial Intelligence Nigeria (RAIN). Sponsored by Meta.",
+		},
+		{
+			title: "Claude Code Verified",
+			issuer: "Anthropic",
+			date: "2025",
+			theme: "claude",
+			link: "https://verify.skilljar.com/c/dhoygrepx93m",
+			skills: [
+				"CLAUDE.md configuration (Project, Local & Machine levels)",
+				"Custom slash commands with $ARGUMENTS",
+				"MCP server integration in GitHub Actions",
+				"Plan Mode vs Thinking Mode",
+				"Hooks system — PreToolUse & PostToolUse lifecycle controls",
+				"Securing and automating Claude Code in CI/CD pipelines",
+			],
+			description:
+				"Verified practitioner in configuring, customising, securing, and automating Claude Code in real development workflows — from local dev environments to CI/CD pipelines.",
+		},
+	],
+
 	projects: [
 		{
 			title: "Bloom - AI Maternal Health Platform",
