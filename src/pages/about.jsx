@@ -6,6 +6,7 @@ import Footer from "../components/common/footer";
 import Logo from "../components/common/logo";
 import Socials from "../components/about/socials";
 import Certifications from "../components/about/certifications";
+import Experience from "../components/about/experience";
 
 import INFO from "../data/user";
 import SEO from "../data/seo";
@@ -71,7 +72,9 @@ const About = () => {
 							<Socials />
 						</div>
 					</div>
-					<Certifications />
+					<Experience />
+
+				<Certifications />
 
 					<div className="page-footer">
 						<Footer />

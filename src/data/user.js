@@ -18,6 +18,7 @@ const INFO = {
 			type: "Full-time · Remote",
 			location: "Chicago, Illinois, United States",
 			period: "October 2025 – Present",
+			logo: "/benmore-logo.jpeg",
 		},
 		{
 			company: "UniOrdering (OrderingPau)",
