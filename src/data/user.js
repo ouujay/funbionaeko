@@ -11,6 +11,23 @@ const INFO = {
 		linkedin: "https://linkedin.com/in/funbionaeko",
 	},
 
+	experience: [
+		{
+			company: "Benmore Technologies",
+			role: "Software Engineer",
+			type: "Full-time · Remote",
+			location: "Chicago, Illinois, United States",
+			period: "October 2025 – Present",
+		},
+		{
+			company: "UniOrdering (OrderingPau)",
+			role: "Founder & CEO",
+			type: "Full-time",
+			location: "Ibadan, Nigeria",
+			period: "January 2024 – Present",
+		},
+	],
+
 	homepage: {
 		title: "AI Engineer & Full Stack Developer",
 		description:
