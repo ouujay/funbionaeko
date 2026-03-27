@@ -67,9 +67,39 @@ const INFO = {
 				"Successfully fulfilled all coursework and projects for the Meta AI Developer Academy Nigeria 2025, run in partnership with Robotics and Artificial Intelligence Nigeria (RAIN). Sponsored by Meta.",
 		},
 		{
-			title: "Claude Code Verified",
+			title: "Introduction to Agent Skills",
 			issuer: "Anthropic",
-			date: "2025",
+			date: "March 2026",
+			theme: "claude",
+			link: "https://verify.skilljar.com/c/ss3ctz9afztg",
+			skills: [
+				"Claude Code Expert",
+				"AI Agent Development",
+				"Agent Skills architecture",
+			],
+			description:
+				"Completed Anthropic's official course on building and using agent skills within Claude Code workflows.",
+		},
+		{
+			title: "Introduction to Model Context Protocol",
+			issuer: "Anthropic",
+			date: "March 2026",
+			theme: "claude",
+			link: "https://verify.skilljar.com/c/fudt7neo3dcx",
+			skills: [
+				"Model Context Protocol (MCP)",
+				"MCP Server Development",
+				"Tool & resource integration",
+				"MCP in CI/CD pipelines",
+				"Claude Code + MCP configuration",
+			],
+			description:
+				"Completed Anthropic's official course on the Model Context Protocol — building MCP servers, integrating tools and resources, and connecting external services to Claude.",
+		},
+		{
+			title: "Claude Code in Action",
+			issuer: "Anthropic",
+			date: "March 2026",
 			theme: "claude",
 			link: "https://verify.skilljar.com/c/dhoygrepx93m",
 			skills: [
