@@ -1,0 +1,107 @@
+.creative-hero {
+	min-height: 80vh;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	padding: 120px 40px 80px;
+	text-align: center;
+	position: relative;
+	overflow: hidden;
+}
+
+.creative-hero::before {
+	content: "";
+	position: absolute;
+	top: -200px;
+	left: 50%;
+	transform: translateX(-50%);
+	width: 600px;
+	height: 600px;
+	background: radial-gradient(circle, rgba(245, 158, 11, 0.12) 0%, transparent 70%);
+	pointer-events: none;
+}
+
+.creative-hero-content {
+	max-width: 700px;
+	position: relative;
+	z-index: 1;
+}
+
+.creative-hero-label {
+	font-size: 13px;
+	font-weight: 600;
+	letter-spacing: 3px;
+	text-transform: uppercase;
+	color: #f59e0b;
+	margin-bottom: 20px;
+}
+
+.creative-hero-name {
+	font-size: 64px;
+	font-weight: 800;
+	color: #ffffff;
+	margin: 0 0 16px;
+	line-height: 1.1;
+	letter-spacing: -1px;
+}
+
+.creative-hero-tagline {
+	font-size: 18px;
+	color: #a0a0a0;
+	margin: 0 0 16px;
+	letter-spacing: 1px;
+}
+
+.creative-hero-bio {
+	font-size: 14px;
+	color: #666666;
+	margin: 0 0 40px;
+	line-height: 1.7;
+}
+
+.creative-hero-socials {
+	display: flex;
+	gap: 14px;
+	justify-content: center;
+}
+
+.creative-social-btn {
+	display: flex;
+	align-items: center;
+	gap: 8px;
+	padding: 10px 22px;
+	border-radius: 30px;
+	font-size: 14px;
+	font-weight: 600;
+	text-decoration: none;
+	transition: transform 0.2s ease, opacity 0.2s ease;
+}
+
+.creative-social-btn:hover {
+	transform: translateY(-2px);
+	opacity: 0.85;
+}
+
+.creative-social-btn--youtube {
+	background: #ff0000;
+	color: white;
+}
+
+.creative-social-btn--tiktok {
+	background: #ffffff;
+	color: #000000;
+}
+
+@media (max-width: 600px) {
+	.creative-hero {
+		padding: 100px 20px 60px;
+	}
+
+	.creative-hero-name {
+		font-size: 40px;
+	}
+
+	.creative-hero-tagline {
+		font-size: 15px;
+	}
+}

@@ -33,6 +33,12 @@ const SEO = [
 			"Get in touch with Funbi Onaeko for AI engineering projects, full-stack development, or collaboration opportunities.",
 		keywords: ["Funbi Onaeko", "Contact", "AI Engineer", "Hire", "Freelance", "Collaboration"],
 	},
+	{
+		page: "creative",
+		description:
+			"Funbi Onaeko — Vlogger, Video Editor & Content Creator from Lagos, Nigeria. Watch my vlogs and hire me for video editing.",
+		keywords: ["Funbi Onaeko", "Vlogger", "Video Editor", "Content Creator", "TikTok", "YouTube", "Lagos", "Nigeria"],
+	},
 ];
 
 export default SEO;

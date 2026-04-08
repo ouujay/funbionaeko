@@ -11,6 +11,31 @@ const INFO = {
 		linkedin: "https://www.linkedin.com/in/funbi-onaeko-91a500252/",
 	},
 
+	creative: {
+		tiktok: "https://www.tiktok.com/@uniordering",
+		youtube: "https://www.youtube.com/@funbionaeko",
+		tagline: "Vlogger · Video Editor · Content Creator",
+		bio: "19-year-old from Lagos, Nigeria. I document life as a young entrepreneur, student, and creator. 471 subscribers · 36 videos.",
+		services: [
+			"Vlog editing",
+			"Short-form content (TikTok & Reels)",
+			"YouTube video editing",
+			"Colour grading & transitions",
+			"Talking-head & lifestyle content",
+		],
+		videos: {
+			youtube: [
+				{ id: "REPLACE_ME_1", title: "New Age Students" },
+				{ id: "REPLACE_ME_2", title: "New Age Farmers" },
+				{ id: "REPLACE_ME_3", title: "Life of a 19 Year Old Millionaire Ep2" },
+				{ id: "REPLACE_ME_4", title: "Life of a 19 year old Millionaire" },
+				{ id: "REPLACE_ME_5", title: "My First Year as a Young Entrepreneur" },
+				{ id: "REPLACE_ME_6", title: "Day in a Life of a Hustling 19 Year Old" },
+			],
+			tiktok: [],
+		},
+	},
+
 	experience: [
 		{
 			company: "Benmore Technologies",

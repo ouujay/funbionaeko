@@ -1,0 +1,19 @@
+.creative-page {
+	background-color: #0a0a0a;
+	min-height: 100vh;
+	color: #ffffff;
+	font-family: "Heebo", sans-serif;
+}
+
+.creative-footer {
+	padding: 0 40px;
+	max-width: 1100px;
+	margin: 0 auto;
+	filter: invert(1) brightness(0.5);
+}
+
+@media (max-width: 600px) {
+	.creative-footer {
+		padding: 0 20px;
+	}
+}
