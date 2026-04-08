@@ -2,11 +2,12 @@ import React from "react";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faYoutube, faTiktok } from "@fortawesome/free-brands-svg-icons";
 import INFO from "../../data/user";
+import heroBg from "../../assets/creative-hero-bg.jpg";
 import "./styles/creativeHero.css";
 
 const CreativeHero = () => {
 	return (
-		<div className="creative-hero">
+		<div className="creative-hero" style={{ backgroundImage: `url(${heroBg})` }}>
 			<div className="creative-hero-content">
 				<div className="creative-hero-label">✦ Creative</div>
 				<h1 className="creative-hero-name">{INFO.main.name}</h1>
