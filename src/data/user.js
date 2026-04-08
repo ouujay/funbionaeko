@@ -15,7 +15,7 @@ const INFO = {
 		tiktok: "https://www.tiktok.com/@uniordering",
 		youtube: "https://www.youtube.com/@funbionaeko",
 		tagline: "Vlogger · Video Editor · Content Creator",
-		bio: "19-year-old from Lagos, Nigeria. I document life as a young entrepreneur, student, and creator. 471 subscribers · 36 videos.",
+		bio: "Check out my edits on YouTube and TikTok — vlogs, day-in-the-life, and creator content from Lagos, Nigeria.",
 		services: [
 			"Vlog editing",
 			"Short-form content (TikTok & Reels)",
