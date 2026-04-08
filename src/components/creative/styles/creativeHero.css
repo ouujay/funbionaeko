@@ -99,6 +99,11 @@
 	padding: 12px 28px;
 }
 
+.creative-hire-top {
+	display: inline-flex;
+	margin-bottom: 28px;
+}
+
 @media (max-width: 600px) {
 	.creative-hero {
 		padding: 100px 20px 60px;

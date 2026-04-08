@@ -9,15 +9,15 @@ const CreativeHero = () => {
 	return (
 		<div className="creative-hero" style={{ backgroundImage: `url(${heroBg})` }}>
 			<div className="creative-hero-content">
+				<a
+					href={`mailto:${INFO.main.email}?subject=Video Editing Enquiry`}
+					className="creative-social-btn creative-social-btn--hire creative-hire-top"
+				>
+					<span>Hire Me</span>
+				</a>
 				<p className="creative-hero-tagline">{INFO.creative.tagline}</p>
 				<p className="creative-hero-bio">{INFO.creative.bio}</p>
 				<div className="creative-hero-socials">
-					<a
-						href={`mailto:${INFO.main.email}?subject=Video Editing Enquiry`}
-						className="creative-social-btn creative-social-btn--hire"
-					>
-						<span>Hire Me</span>
-					</a>
 					<a
 						href={INFO.creative.youtube}
 						target="_blank"
