@@ -45,6 +45,68 @@
 	color: #000000;
 }
 
+.video-platform-cta {
+	display: flex;
+	align-items: center;
+	gap: 20px;
+	background: #111111;
+	border: 1px solid #222;
+	border-radius: 14px;
+	padding: 20px 24px;
+	margin-bottom: 28px;
+}
+
+.video-platform-cta-icon {
+	font-size: 28px;
+	flex-shrink: 0;
+}
+
+.video-platform-cta-icon--youtube { color: #ff0000; }
+.video-platform-cta-icon--tiktok { color: #ffffff; }
+
+.video-platform-cta-text {
+	flex: 1;
+}
+
+.video-platform-cta-text p {
+	margin: 0 0 4px;
+	font-size: 15px;
+	font-weight: 600;
+	color: #ffffff;
+}
+
+.video-platform-cta-text span {
+	font-size: 12px;
+	color: #555;
+}
+
+.video-platform-cta-btn {
+	display: flex;
+	align-items: center;
+	gap: 8px;
+	padding: 10px 20px;
+	background: #f59e0b;
+	color: #000;
+	font-size: 13px;
+	font-weight: 700;
+	border-radius: 30px;
+	text-decoration: none;
+	white-space: nowrap;
+	transition: opacity 0.2s ease, transform 0.2s ease;
+	flex-shrink: 0;
+}
+
+.video-platform-cta-btn:hover {
+	opacity: 0.85;
+	transform: translateY(-1px);
+}
+
+@media (max-width: 600px) {
+	.video-platform-cta {
+		flex-wrap: wrap;
+	}
+}
+
 .video-grid {
 	display: grid;
 	grid-template-columns: repeat(2, 1fr);
