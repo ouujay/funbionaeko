@@ -13,6 +13,12 @@ const CreativeHero = () => {
 				<p className="creative-hero-bio">{INFO.creative.bio}</p>
 				<div className="creative-hero-socials">
 					<a
+						href={`mailto:${INFO.main.email}?subject=Video Editing Enquiry`}
+						className="creative-social-btn creative-social-btn--hire"
+					>
+						<span>Hire Me</span>
+					</a>
+					<a
 						href={INFO.creative.youtube}
 						target="_blank"
 						rel="noreferrer"
