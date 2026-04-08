@@ -7,17 +7,17 @@
 	text-align: center;
 	position: relative;
 	overflow: hidden;
+	background-image: url("/creative-hero-bg.jpg");
+	background-size: cover;
+	background-position: center;
+	background-repeat: no-repeat;
 }
 
 .creative-hero::before {
 	content: "";
 	position: absolute;
-	top: -200px;
-	left: 50%;
-	transform: translateX(-50%);
-	width: 600px;
-	height: 600px;
-	background: radial-gradient(circle, rgba(245, 158, 11, 0.12) 0%, transparent 70%);
+	inset: 0;
+	background: linear-gradient(to bottom, rgba(10,10,10,0.6) 0%, rgba(10,10,10,0.75) 100%);
 	pointer-events: none;
 }
 
