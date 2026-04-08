@@ -25,12 +25,12 @@ const INFO = {
 		],
 		videos: {
 			youtube: [
-				{ id: "REPLACE_ME_1", title: "New Age Students" },
-				{ id: "REPLACE_ME_2", title: "New Age Farmers" },
-				{ id: "REPLACE_ME_3", title: "Life of a 19 Year Old Millionaire Ep2" },
-				{ id: "REPLACE_ME_4", title: "Life of a 19 year old Millionaire" },
-				{ id: "REPLACE_ME_5", title: "My First Year as a Young Entrepreneur" },
-				{ id: "REPLACE_ME_6", title: "Day in a Life of a Hustling 19 Year Old" },
+				{ id: "JTd73QCLDf0", title: "New Age Students" },
+				{ id: "5XEy6vH9aHY", title: "New Age Farmers" },
+				{ id: "oYT982Y-UZw", title: "Life of a 19 Year Old Millionaire Ep2" },
+				{ id: "PsIhZyGeVRk", title: "Life of a 19 year old Millionaire" },
+				{ id: "Kr-KHZjXLxE", title: "My First Year as a Young Entrepreneur" },
+				{ id: "zlPNg-vwkhk", title: "Solo Trip Back Home | 19 Year Old in Nigeria" },
 			],
 			tiktok: [],
 		},
