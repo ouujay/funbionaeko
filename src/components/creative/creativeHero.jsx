@@ -9,7 +9,6 @@ const CreativeHero = () => {
 	return (
 		<div className="creative-hero" style={{ backgroundImage: `url(${heroBg})` }}>
 			<div className="creative-hero-content">
-				<div className="creative-hero-label">✦ Creative</div>
 				<h1 className="creative-hero-name">{INFO.main.name}</h1>
 				<p className="creative-hero-tagline">{INFO.creative.tagline}</p>
 				<p className="creative-hero-bio">{INFO.creative.bio}</p>
