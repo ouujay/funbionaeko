@@ -52,10 +52,11 @@
 }
 
 .creative-hero-bio {
-	font-size: 14px;
-	color: #666666;
+	font-size: 22px;
+	font-weight: 800;
+	color: #ffffff;
 	margin: 0 0 40px;
-	line-height: 1.7;
+	line-height: 1.5;
 }
 
 .creative-hero-socials {
