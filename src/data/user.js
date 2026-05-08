@@ -142,6 +142,15 @@ const INFO = {
 
 	projects: [
 		{
+			title: "Job Hunter Agent - LangGraph AI Agent",
+			description:
+				"Autonomous AI agent that hunts Nigeria-friendly remote roles on LinkedIn. Built with LangGraph state machine (5 nodes, iterative refinement), GPT-4o for query generation + filtering, Tavily web search, and Playwright validation that confirms each posting is still open before scoring it. CV-personalised match probability (0-100) and React + TypeScript dashboard with PDF export.",
+			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/python/python.png",
+			linkText: "View Project",
+			link: "https://github.com/ouujay",
+			tech: ["LangGraph", "LangChain", "GPT-4o", "Tavily", "Django", "React", "TypeScript", "Playwright"],
+		},
+		{
 			title: "Bloom - AI Maternal Health Platform",
 			description:
 				"AI-powered maternal health CRM for Nigerian mothers, addressing 512 deaths per 100,000 live births. Features voice-first AI triage with Llama 3.3 (classifies symptoms as critical/urgent/moderate/normal), 40-week pregnancy education program, healthcare CRM for hospitals, and gamified token rewards.",
